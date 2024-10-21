@@ -1,16 +1,18 @@
-## Hi there 👋
 
-<!--
-**Microfred/Microfred** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hola soy Juan Alfredo
 
-Here are some ideas to get you started:
+👋👋👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+"I am a microbiologist with a strong interest in microbiomes, metagenomics, systematic taxonomy, ecology and evolution ."
+
+"Now, I am researching microorganisms associated with various insects and identifying new species of bacteria and fungi, and am working with the three life domains: 🦠 Bacteria, 🐒 Eukarya, and 🦠 Archaea!! ."
+
+"I am a research professor at the National School of Biological Sciences of the National Polytechnic Institute (ENCB-IPN). I teach the theoretical-practical course of General Microbiology and I am a professor of the elective subject of Genomics Science."
+
+## Authors
+
+- [@Microfred](https://www.github.com/Microfred
+
+
+# Hi, I'm MicroFred! 👋
+
