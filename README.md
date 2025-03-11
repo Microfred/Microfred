@@ -2,11 +2,11 @@
 
 ### About Me
 
-- "I am a microbiologist with a strong interest in microbiomes, metagenomics, systematic taxonomy, ecology and evolution ."
+- "I am a microbiologist with a strong interest in microbiomes, metagenomics, systematic taxonomy, ecology, and evolution."
 
-- "I am a research professor at the National School of Biological Sciences of the National Polytechnic Institute (ENCB-IPN). I teach the theoretical-practical course of General Microbiology and I am a professor of the elective subject of Genomics Science."
+- "I am a research professor at the National School of Biological Sciences of the National Polytechnic Institute (ENCB-IPN). I teach the theoretical-practical course in General Microbiology and am also a professor for the elective course in Genomic Science."
 
-- "Now, I am researching microorganisms associated with various insects and extreme environments, identifying new species of Bacteria 🧫,  Archaea 🦠 and Fungi 🍄"
+- "Now, I am researching microorganisms associated with various insects and extreme environments, identifying new species of Bacteria 🧫,  Yeast 🦠 and Fungi 🍄"
 - I also love movies 
 
 ### Contact Me
